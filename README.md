@@ -54,7 +54,7 @@ There are two ways to go about:
 
 ### Deploying to heroku:
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/rohit85.kumar/stremio-gdrive.git)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/rohit85kumar/drive-stream.git)
 
 1. Hit the deploy button.
 2. Paste the token string in the token field.
